@@ -5,3 +5,7 @@ The first thing I learned was working with variables. I might encounter more com
 
 November 24, 2025
 Studied the theory and practice of conditional branching. The topic turned out to be simple; everything depends on the logical construction of the constructs.
+
+November 30, 2025
+Fully mastered the basic concepts of loops.
+Created a simple calculator using my new knowledge of functions. I also used switch/case for the first time.
